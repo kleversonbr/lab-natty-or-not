@@ -2,7 +2,7 @@
 
 ## 📒 Descrição
 O projeto faz parte do Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3, e consiste em utilizar IAs Generativas para criar um conteúdo mais realista possível. 
-Escolhi criar uma imagem de algo totalmente improvável na vida real, para que a IA conseguisse pornar mais realista possível.
+Escolhi criar uma imagem de algo totalmente improvável na vida real, para que a IA conseguisse tornar mais realista possível.
 
 ## 🤖 Tecnologias Utilizadas
 Utilizei duas IAs Generativas gratuitas para a criação de imagens por texto de prompt de comando.
