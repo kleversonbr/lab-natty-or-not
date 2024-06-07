@@ -1,51 +1,28 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto: Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto faz parte do Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3, e consiste em utilizar IAs Generativas para criar um conteúdo mais realista possível. 
+Escolhi criar uma imagem de algo totalmente improvável na vida real, para que a IA conseguisse pornar mais realista possível.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei duas IAs Generativas gratuitas para a criação de imagens por texto de prompt de comando.
+As IA utilizadas foram:
+- [Canvas](https://www.canva.com/)
+- [Artguru](https://www.artguru.ai/pt/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Após cadastro e login para utilização de conta gratuita, utilizei a função de geração de imagem via texto, para solicitar a geração de uma imagem de um bebê tocando guitarra. O prompt utilizado foi: "gere uma imagem realista de um bebê tatuado, com cabelo black power tocando guitarra em uma banda de rock".
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado obtido foram as imagens abaixo:
+
+- Canvas
+<img src="/img/canvas.png">
+
+- Artguru
+<img src="/img/artguru.png">
+  
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Achei as imagens muito realistas e o resultado final foi impressionante. Apesar da geração de imagens distorcer alguns elementos como dedos e pés, no geral supera as expectativas. O bootcamp foi muito bom e gostei muito de ter participado conhecendo as ferramentas AWS.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
